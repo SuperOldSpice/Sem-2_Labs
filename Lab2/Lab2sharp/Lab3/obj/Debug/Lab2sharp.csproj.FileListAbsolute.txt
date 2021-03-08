@@ -1,0 +1,10 @@
+C:\Users\Админ\source\repos\Lab2sharp\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\Админ\source\repos\Lab2sharp\Lab3\bin\Debug\Lab3.exe
+C:\Users\Админ\source\repos\Lab2sharp\Lab3\bin\Debug\Lab3.pdb
+C:\Users\Админ\source\repos\Lab2sharp\Lab3\bin\Debug\TextLibrary.dll
+C:\Users\Админ\source\repos\Lab2sharp\Lab3\bin\Debug\TextLibrary.pdb
+C:\Users\Админ\source\repos\Lab2sharp\Lab3\obj\Debug\Lab2sharp.csprojAssemblyReference.cache
+C:\Users\Админ\source\repos\Lab2sharp\Lab3\obj\Debug\Lab2sharp.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\Lab2sharp\Lab3\obj\Debug\Lab2sharp.csproj.CopyComplete
+C:\Users\Админ\source\repos\Lab2sharp\Lab3\obj\Debug\Lab3.exe
+C:\Users\Админ\source\repos\Lab2sharp\Lab3\obj\Debug\Lab3.pdb
