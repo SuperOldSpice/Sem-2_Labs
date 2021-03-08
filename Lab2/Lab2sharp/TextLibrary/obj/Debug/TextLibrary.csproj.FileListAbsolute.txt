@@ -1,0 +1,12 @@
+C:\Users\Админ\source\repos\Lab3\TextLibrary\bin\Debug\TextLibrary.dll
+C:\Users\Админ\source\repos\Lab3\TextLibrary\bin\Debug\TextLibrary.pdb
+C:\Users\Админ\source\repos\Lab3\TextLibrary\obj\Debug\TextLibrary.csprojAssemblyReference.cache
+C:\Users\Админ\source\repos\Lab3\TextLibrary\obj\Debug\TextLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\Lab3\TextLibrary\obj\Debug\TextLibrary.dll
+C:\Users\Админ\source\repos\Lab3\TextLibrary\obj\Debug\TextLibrary.pdb
+C:\Users\Админ\source\repos\Lab2sharp\TextLibrary\bin\Debug\TextLibrary.dll
+C:\Users\Админ\source\repos\Lab2sharp\TextLibrary\bin\Debug\TextLibrary.pdb
+C:\Users\Админ\source\repos\Lab2sharp\TextLibrary\obj\Debug\TextLibrary.csprojAssemblyReference.cache
+C:\Users\Админ\source\repos\Lab2sharp\TextLibrary\obj\Debug\TextLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\Lab2sharp\TextLibrary\obj\Debug\TextLibrary.dll
+C:\Users\Админ\source\repos\Lab2sharp\TextLibrary\obj\Debug\TextLibrary.pdb
