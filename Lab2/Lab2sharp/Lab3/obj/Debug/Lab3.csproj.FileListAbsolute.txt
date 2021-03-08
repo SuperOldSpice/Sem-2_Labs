@@ -1,0 +1,10 @@
+C:\Users\Админ\source\repos\Lab3\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+C:\Users\Админ\source\repos\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\Lab3\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\Админ\source\repos\Lab3\Lab3\bin\Debug\Lab3.exe
+C:\Users\Админ\source\repos\Lab3\Lab3\bin\Debug\Lab3.pdb
+C:\Users\Админ\source\repos\Lab3\Lab3\bin\Debug\TextLibrary.dll
+C:\Users\Админ\source\repos\Lab3\Lab3\bin\Debug\TextLibrary.pdb
+C:\Users\Админ\source\repos\Lab3\Lab3\obj\Debug\Lab3.csproj.CopyComplete
+C:\Users\Админ\source\repos\Lab3\Lab3\obj\Debug\Lab3.exe
+C:\Users\Админ\source\repos\Lab3\Lab3\obj\Debug\Lab3.pdb
