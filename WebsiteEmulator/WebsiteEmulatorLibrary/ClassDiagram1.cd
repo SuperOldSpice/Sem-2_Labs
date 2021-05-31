@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WebsiteEmulatorLibrary.Account">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAIQGAAAAAgAAAAABAhAAAAAAAAAAAAAAAAIAAEAE=</HashCode>
+      <FileName>Account.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="WebsiteEmulatorLibrary.Moderator">
+    <Position X="6.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Moderator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebsiteEmulatorLibrary.News">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAgAAgAABAAAAAAAAAAAAAAEJAABAAQAAAEA=</HashCode>
+      <FileName>News.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebsiteEmulatorLibrary.Rubric">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAQAAgAAAAgEABDAAAAAAAAAAEAEEFAAAAAAAAAAA=</HashCode>
+      <FileName>Rubric.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebsiteEmulatorLibrary.Subject">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAgEABAAAAAAAAAAAEAAEBAAAAAACBAAA=</HashCode>
+      <FileName>Subject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebsiteEmulatorLibrary.User">
+    <Position X="3.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebsiteEmulatorLibrary.Website">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAKBQgAAoQAAAABBAACQCQABIAAAAEFIAAAAxAAgAA=</HashCode>
+      <FileName>Website.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="WebsiteEmulatorLibrary.IAccount">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAhAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>IAccount.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="WebsiteEmulatorLibrary.AccountType">
+    <Position X="7.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Website.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
